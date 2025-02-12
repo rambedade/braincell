@@ -68,6 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any inquiries, feel free to reach out!
 
-- GitHub: [Your GitHub Profile](https://github.com/rambedade)
+- GitHub: (https://github.com/rambedade)
 - Email: rambedade2308@gmail.com
 
